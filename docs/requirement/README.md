@@ -10,7 +10,13 @@
 - [ ] Can seek for the quest (work).
 - [ ] Can assign themself for the quest.
 - [ ] Custom Avatar
+- [ ] Chatting with Quest Master
 
 ### User: Questmaster
+
+- [ ] Assign the quest on the board.
+- [ ] Update their quest.
+- [ ] Chatting with Player.
+- [ ] Rate Player.
 
 ## Non-Functional Requirement
