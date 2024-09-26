@@ -20,3 +20,6 @@
 - [ ] Rate Player.
 
 ## Non-Functional Requirement
+
+- [ ] Responsive Design
+- [ ] Scalability
